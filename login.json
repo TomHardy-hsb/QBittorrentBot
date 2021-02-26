@@ -1,13 +1,13 @@
 {
-  "token": "YOUR TOKEN",
+  "token": "1133932333:AAHd-Um2EV4S9bx-nS-h8QZm1BITUc-RNL4",
 
   "qbittorrent": {
-    "ip": "localhost",
-    "port": 8080,
+    "ip": "https://qpitshlhsb.herokuapp.com",
+    "port": 47655,
     "user": "admin",
     "password": "adminadmin"
   },
 
-  "id": [456, 78987],
+  "id": [614220961],
   "notify": true
 }
